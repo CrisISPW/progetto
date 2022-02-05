@@ -1,0 +1,29 @@
+
+†progettoispw.letmeknow.controller.user.UserDAO#registration(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Zˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaL L("5*¤
+2ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaP P(?"“
+ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaP P(?
+""*Î
+3ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaO O((¸
+µ
+ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaO O((
+stmtjava.sql.Statement"__id*
+""*
+2*Î
+5ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaM M(¸
+µ
+ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/UserDAO.javaM M(
+stmtjava.sql.Statement"__id*
+""*
+3:
+uidjava.lang.String:
+passwordjava.lang.String:
+typejava.lang.String:
+emailjava.lang.StringB20
+.progettoispw.letmeknow.controller.user.UserDAO

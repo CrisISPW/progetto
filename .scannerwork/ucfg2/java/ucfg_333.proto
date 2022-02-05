@@ -1,0 +1,39 @@
+
+pprogettoispw.letmeknow.controller.form.Query#newForm(Ljava/sql/Statement;Ljava/lang/String;)Ljava/sql/ResultSet;†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaP P("4*´
+2†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaS S(*"¥
+†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaS S(*
+
+%1java.sql.ResultSet*¦
+3†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaR R(iÅ
+Â
+†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaR R(i
+sqljava.lang.String"__id*
+
+%0java.lang.StringÊÇ
+†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaS S()
+%1java.sql.ResultSet"Gjava.sql.Statement#executeQuery(Ljava/lang/String;)Ljava/sql/ResultSet;*
+
+stmtjava.sql.Statement*
+
+sqljava.lang.String2 executeQuery(Ljava/lang/String;)*
+2*ý
+4†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaR R(é
+æ
+†
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.javaR R(h
+%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*=;
+9SELECT `formid`,`completed` FROM forms where userid='%s';*
+
+useridjava.lang.String*
+3:
+stmtjava.sql.Statement:
+useridjava.lang.StringB0.
+,progettoispw.letmeknow.controller.form.Query

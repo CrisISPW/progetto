@@ -1,0 +1,2 @@
+progetto :î”©¨ˆ™zÕ¢˜»šŒ•ŠÁ
+Ÿ¥£|Ì	ÏûÎ“Í¡’—ÔŒ°—x×–¯‰•¢«w¦yÊ¤²‘ÇÒ¼‘¨Ë–ÖŸ„‡‹‚¿ºĞÉ›£œ“¡¸ ±…ƒŠÅª ˜ÃÄŞª¹¾‹ÂØÈ§ÀÑ†Æ½Ó”’B($https://github.com/crisISPW/progettoB+'https://travis-ci.org/crisISPW/progettoB/+https://github.com/crisISPW/progetto/issuesB($https://github.com/crisISPW/progettoRCrisISPW_progetto

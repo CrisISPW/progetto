@@ -1,0 +1,1 @@
+Ω 2javaXhrÅprogettoRieditatosecondo/src/main/usecase/initialSearchAndChat/controllerApplicative/progettoispw/letmeknow/bean/LastMessage.java

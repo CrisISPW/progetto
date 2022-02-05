@@ -1,0 +1,43 @@
+
+sprogettoispw.letmeknow.controller.form.Query#insertForm(Ljava/sql/Statement;Ljava/lang/String;ILjava/lang/String;)ZÜ
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java ("4*†
+2Ü
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java ("ë
+Ü
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java (
+""*à
+3á
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java (á∆
+√
+á
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java (á
+sqljava.lang.String"__id*
+
+%0java.lang.String™ß
+Ü
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java (#	
+%1int"5java.sql.Statement#executeUpdate(Ljava/lang/String;)I*
+
+stmtjava.sql.Statement*
+
+sqljava.lang.String2!executeUpdate(Ljava/lang/String;)*
+2*¥
+4Ü
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java (†
+ù
+á
+|C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/form/Query.java (Ü
+%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*NL
+JINSERT INTO `forms` (`formid`, `userid`,`about`) VALUES ('%d', '%s','%s');*
+""*
+
+useridjava.lang.String*
+
+aboutjava.lang.String*
+3:
+stmtjava.sql.Statement:
+useridjava.lang.String:
+"":
+aboutjava.lang.StringB0.
+,progettoispw.letmeknow.controller.form.Query

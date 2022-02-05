@@ -1,0 +1,104 @@
+
+cprogettoispw.letmeknow.controller.user.JavaMailUtil#sendMail(Ljava/lang/String;)Ljava/lang/Boolean;é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java ("15*ó
+13é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (˘
+ˆ
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (/
+%3java.lang.Object"__mapSet*$
+"
+
+propertiesjava.util.Properties*
+mail.smtp.port*
+465*
+12*Å
+14é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (/‹
+Ÿ
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (/"
+
+propertiesjava.util.Properties"__id*
+
+%0java.util.PropertiesÑ
+Å
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (9
+%2java.lang.Object"__mapSet*$
+"
+
+propertiesjava.util.Properties*
+mail.smtp.host*
+smtp.gmail.com*
+13*Æ
+3é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java ("ó
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (2*ø
+15é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (.∆√
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java" (,
+%0java.util.Properties"java.util.Propertiesÿ
+’
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (.
+%1"java.util.Properties#<init>()V*
+
+%0java.util.Properties*
+14*Ù
+5é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (ÿ’
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (E
+%6"zprogettoispw.letmeknow.controller.user.JavaMailUtil#prepareMessage(LSession;Ljava/lang/String;Ljava/lang/String;)LMessage;*75
+3progettoispw.letmeknow.controller.user.JavaMailUtil*
+""*
+
+	myAccountjava.lang.String*
+
+	recipientjava.lang.String2=prepareMessage(LSession;Ljava/lang/String;Ljava/lang/String;)*
+3*‹
+7é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (0¿
+Ω
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (0
+passwordjava.lang.String"__id*
+""*
+5*›
+8é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (.¡
+æ
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (.
+	myAccountjava.lang.String"__id*
+""*
+7*ó
+11é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (˙
+˜
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (0
+%5java.lang.Object"__mapSet*$
+"
+
+propertiesjava.util.Properties*
+mail.smtp.auth*
+true*
+8*û
+12é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (Ä
+˝
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/JavaMailUtil.java (6
+%4java.lang.Object"__mapSet*$
+"
+
+propertiesjava.util.Properties*
+mail.smtp.ssl.enable*
+true*
+11:
+	recipientjava.lang.StringB75
+3progettoispw.letmeknow.controller.user.JavaMailUtil

@@ -1,0 +1,39 @@
+
+wprogettoispw.letmeknow.controller.usruser.Query#queryResult(Ljava/sql/Statement;Ljava/lang/String;)Ljava/sql/ResultSet;‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java! !(#"5*º
+3‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java$ $(*"¨
+‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java$ $(*
+
+%1java.sql.ResultSet*¯
+4‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java# #(UÈ
+Å
+‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java# #(U
+sqljava.lang.String"__id*
+
+%0java.lang.StringÍÊ
+‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java$ $()
+%1java.sql.ResultSet"Gjava.sql.Statement#executeQuery(Ljava/lang/String;)Ljava/sql/ResultSet;*
+
+stmtjava.sql.Statement*
+
+sqljava.lang.String2 executeQuery(Ljava/lang/String;)*
+3*ï
+5‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java# #(Ø
+Õ
+‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java# #(T
+%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*,*
+( SELECT * FROM forms where `userid`=%s ;*
+
+uidjava.lang.String*
+4:
+stmtjava.sql.Statement:
+uidjava.lang.StringB31
+/progettoispw.letmeknow.controller.usruser.Query

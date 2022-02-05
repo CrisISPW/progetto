@@ -1,0 +1,3 @@
+È
+¾Dependencies/libraries were not provided for analysis of SOURCE files. The 'sonar.java.libraries' property is empty. Verify your configuration, as you might end up with less precise results.ÒŸ‰«ì/ª
+ JavaScript/TypeScript/CSS rules were not executed. Node.js not found in PATH. PATH value was: C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;C:\Users\admin\Downloads\sonar-scanner-cli-4.4.0.2170-windows\sonar-scanner-4.4.0.2170-windows\bin;C:\Users\admin\AppData\Local\Microsoft\WindowsAppsªú‰«ì/

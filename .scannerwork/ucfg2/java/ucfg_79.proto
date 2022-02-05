@@ -1,0 +1,26 @@
+
+Vprogettoispw.letmeknow.WordCheck#goAheadCounter(Ljava/lang/String;)Ljava/lang/Integer;é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java8 8(!"6*ê
+5é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java: :(ÙÒ
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java: :(,
+%0char[]" java.lang.String#toCharArray()[C*
+
+	inputTextjava.lang.String2toCharArray()*
+1*‹
+6é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java9 9(¿
+Ω
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java9 9(
+	contAheadjava.lang.Integer"__id*2*
+5* 
+1é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java? ?("≥
+é
+ÉC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/java/controllerView/progettoispw/letmeknow/WordCheck.java? ?( 
+
+	contAheadjava.lang.Integer:
+	inputTextjava.lang.StringB$"
+ progettoispw.letmeknow.WordCheck

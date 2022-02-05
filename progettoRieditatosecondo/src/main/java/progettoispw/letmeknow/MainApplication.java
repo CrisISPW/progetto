@@ -59,5 +59,7 @@ public class MainApplication extends Application {
     public static void main(String[] args) {
         size=ScreenSize.LAPTOP;
         launch();
+
+
     }
 }

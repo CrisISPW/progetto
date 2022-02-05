@@ -1,0 +1,40 @@
+
+gprogettoispw.letmeknow.controller.usruser.Query#setCalculated(Ljava/sql/Statement;Ljava/lang/String;I)Z‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java* *(#"5*¦
+3‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java. .("”
+‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java. .(
+""*‘
+4Š
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java, ,(‰É
+Æ
+Š
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java, ,(‰
+sqljava.lang.String"__id*
+
+%0java.lang.String­ª
+‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java- -(#	
+%1int"5java.sql.Statement#executeUpdate(Ljava/lang/String;)I*
+
+stmtjava.sql.Statement*
+
+sqljava.lang.String2!executeUpdate(Ljava/lang/String;)*
+3*¥
+5‰
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java, ,(Ž
+‹
+Š
+C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/usruser/Query.java, ,(ˆ
+%0java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*YW
+U UPDATE `forms` SET `calculated` = '0' WHERE (`formid` = '%d') and (`userid` = '%s');*
+""*
+
+uidjava.lang.String*
+4:
+stmtjava.sql.Statement:
+uidjava.lang.String:
+""B31
+/progettoispw.letmeknow.controller.usruser.Query

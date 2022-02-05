@@ -1,0 +1,42 @@
+
+{progettoispw.letmeknow.controller.user.InitialUser#registrationPSY(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Zè
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÅ Å(""3*ß
+2è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÜ Ü("ÚÔ
+è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÜ Ü(6
+%1boolean"wprogettoispw.letmeknow.controller.user.InitialUser#composeMail(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Z*64
+2progettoispw.letmeknow.controller.user.InitialUser*
+
+uidjava.lang.String*
+
+passwordjava.lang.String*
+
+emailjava.lang.String2CcomposeMail(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)"ö
+è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÜ Ü(7
+""*•
+3è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÇ Ç(+¥
+±
+è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÑ Ñ(
+%0java.lang.String"Mprogettoispw.letmeknow.controller.user.InitialUser#getUid()Ljava/lang/String;*64
+2progettoispw.letmeknow.controller.user.InitialUserŒ
+À
+è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaÑ Ñ(
+uidjava.lang.String"__id*
+
+%0java.lang.String*
+2
+1*≤
+1è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaá á("ö
+è
+ÇC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/user/InitialUser.javaá á(
+"":
+passwordjava.lang.String:
+emailjava.lang.String:
+typejava.lang.StringB64
+2progettoispw.letmeknow.controller.user.InitialUser

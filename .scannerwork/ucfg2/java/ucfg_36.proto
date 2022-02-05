@@ -1,0 +1,16 @@
+
+Lprogettoispw.letmeknow.bean.SignupBean#checkDescription(Ljava/lang/String;)Zù
+íC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/signup/controllerApplicative/progettoispw/letmeknow/bean/SignupBean.java (#"1*á
+1ù
+íC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/signup/controllerApplicative/progettoispw/letmeknow/bean/SignupBean.java (∂≥
+ù
+íC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/signup/controllerApplicative/progettoispw/letmeknow/bean/SignupBean.java ((
+%0boolean"4java.lang.String#contains(Ljava/lang/CharSequence;)Z*!
+
+descriptionjava.lang.String*
+#2"contains(Ljava/lang/CharSequence;)"®
+ù
+íC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/usecase/signup/controllerApplicative/progettoispw/letmeknow/bean/SignupBean.java ()
+"":
+descriptionjava.lang.StringB*(
+&progettoispw.letmeknow.bean.SignupBean

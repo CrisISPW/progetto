@@ -1,0 +1,100 @@
+
+Sprogettoispw.letmeknow.controller.ConnectionInfo#getConnectionInfo()Ljava/util/Map;•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java% %(/"1*Ž
+1•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java' '(ž
+›
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java' '(
+
+%0void"?progettoispw.letmeknow.controller.ConnectionInfo#getElements()V*4"2
+0progettoispw.letmeknow.controller.ConnectionInfoÇÄ
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java(- ((6
+%1java.util.HashMap"java.util.HashMapÙ
+Ö
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java() ((8
+%2"java.util.HashMap#<init>()V*
+
+%1java.util.HashMapÙ
+Ö
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java( ((9
+
+parametersjava.util.Map"__id*
+
+%1java.util.HashMapù
+ö
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java)# )('
+%3java.lang.String"__id*>*<2
+0progettoispw.letmeknow.controller.ConnectionInfo"
+user„
+
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java) )((
+%4java.lang.String"__mapSet*
+
+
+parametersjava.util.Map*
+
+username*
+
+%3java.lang.Stringù
+ö
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java*# *('
+%5java.lang.String"__id*>*<2
+0progettoispw.letmeknow.controller.ConnectionInfo"
+pass„
+
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java* *((
+%6java.lang.String"__mapSet*
+
+
+parametersjava.util.Map*
+
+password*
+
+%5java.lang.Stringú
+÷
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java+ +(#
+%7java.lang.String"__id*?*=2
+0progettoispw.letmeknow.controller.ConnectionInfo"
+dbUrlÿ
+ü
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java+ +($
+%8java.lang.String"__mapSet*
+
+
+parametersjava.util.Map*
+url*
+
+%7java.lang.String„
+
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java,% ,(4
+%9java.lang.String"__id*I*G2
+0progettoispw.letmeknow.controller.ConnectionInfo"
+driverClassName‡
+„
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java, ,(5
+%10java.lang.String"__mapSet*
+
+
+parametersjava.util.Map*
+
+driverName*
+
+%9java.lang.String"·
+•
+ŠC:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/patterns/singleton/progettoispw/letmeknow/controller/ConnectionInfo.java. .(
+
+
+parametersjava.util.MapB42
+0progettoispw.letmeknow.controller.ConnectionInfo

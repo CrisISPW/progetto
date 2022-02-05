@@ -1,0 +1,26 @@
+
+aprogettoispw.letmeknow.controller.search.Query#getnRows(Ljava/sql/Statement;)Ljava/sql/ResultSet;ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/search/Query.java@ @("3*¸
+2ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/search/Query.javaC C(*"§
+ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/search/Query.javaC C(*
+
+%0java.sql.ResultSet*½
+3ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/search/Query.javaB B(>Ø
+Õ
+ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/search/Query.javaB B(?
+sqljava.lang.String"__id*)'
+%SELECT COUNT(*) FROM recently_visitedÌÉ
+ˆ
+~C:/Users/admin/Desktop/progetto/progettoRieditatosecondo/src/main/database/progettoispw/letmeknow/controller/search/Query.javaC C()
+%0java.sql.ResultSet"Gjava.sql.Statement#executeQuery(Ljava/lang/String;)Ljava/sql/ResultSet;*
+
+stmtjava.sql.Statement*
+
+sqljava.lang.String2 executeQuery(Ljava/lang/String;)*
+2:
+stmtjava.sql.StatementB20
+.progettoispw.letmeknow.controller.search.Query

@@ -6,12 +6,10 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.ButtonType;
 import progettoispw.letmeknow.controller.ConnectionDBMS;
 
+import java.awt.event.WindowEvent;
 import java.util.Optional;
 
-public final class Exceptions {
-    private Exceptions(){
-        //the other class can't edit Exceptions
-    }
+public class Exceptions {
     public static void exceptionPageOccurred(){
         Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
         alert.setTitle("Invalid resources ");
@@ -38,9 +36,12 @@ public final class Exceptions {
         ConnectionDBMS.closeCONN();
         Platform.exit();
     }
+    public static void login(){
+
+    }
     public static void exceptionSignupOccurred(ActionEvent event){
         Alert alert = new Alert(Alert.AlertType.WARNING);
-        alert.setTitle("Signup failed");
+        alert.setTitle("keep attention ");
         alert.setHeaderText("We weren't be able to retrieve your data, please try  again!");
         alert.setContentText("Please, fill Email and Password Fields. They cannot be empty.");
         Optional<ButtonType> result = alert.showAndWait();
@@ -54,7 +55,7 @@ public final class Exceptions {
     }
     public static String exceptionInputChatOccurred(String text) {
         Alert alert = new Alert(Alert.AlertType.WARNING);
-        alert.setTitle("Sending message failed");
+        alert.setTitle("keep attention ");
         alert.setHeaderText("We weren't be able to retrieve your data, please try  again!");
         alert.setContentText("Your text can't contain any char ");
         Optional<ButtonType> result = alert.showAndWait();
@@ -67,7 +68,7 @@ public final class Exceptions {
     }
     public static void exceptionEditProfileOccurred(ActionEvent event) {
         Alert alert = new Alert(Alert.AlertType.WARNING);
-        alert.setTitle("Update profile failed");
+        alert.setTitle("keep attention ");
         alert.setHeaderText("We weren't be able edit your data, please try  again!");
         alert.setContentText("Please,check if " +
                 "tag and description begin in '#'," +
